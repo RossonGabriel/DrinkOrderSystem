@@ -10,7 +10,3 @@ And this one is our menu ⭐⭐⭐
 
 <img src="Images/Java2.png">
 
-# How to run?
-For Compliation : <code>javac EmployManagementSystem.java</code>
-
-To Run Program  : <code>java EmployManagementSystem</code>
